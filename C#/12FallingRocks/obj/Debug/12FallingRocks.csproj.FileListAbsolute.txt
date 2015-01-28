@@ -1,0 +1,6 @@
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.exe.config
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.exe
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.pdb
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.exe
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.pdb
+D:\Uni\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.csprojResolveAssemblyReference.cache
